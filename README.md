@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rumen
-- 👀 I’m interested in Python, AI, travelling, sports, etc.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate with happy, positive, cool and smart people.
+- 🎯 I’m interested in Python, AI, travelling, sports, etc.
+- 🐍 I’m currently learning Python.
+- 👀 I’m looking to collaborate with happy, positive, cool and smart people.
 - 📫 How to reach me: rumen.iliev50@gmail.com
 
 <!---
