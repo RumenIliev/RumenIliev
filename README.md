@@ -4,7 +4,7 @@
  
 👨🏻‍💻 I’m currently learning Artificial Intelligence.
 
-👀  I’m looking to collaborate with happy, positive, cool and smart people.
+👀  I’m looking to collaborate with positive and motivated people.
  
 📫  How to reach me: rumen.iliev50@gmail.com
 
