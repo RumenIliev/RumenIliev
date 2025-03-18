@@ -7,7 +7,8 @@
 <p>📫  Feel free to contact me via <a href="mailto:rumen.iliev50@gmail.com">email</a>.</p>
 <p align="left">
  <a href="https://instagram.com/riliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riliev" height="30" width="40" hspace="5"/></a>
-<a href="https://kaggle.com/rumeniliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rumeniliev" height="30" width="40"/></a> </p>
+<a href="https://kaggle.com/rumeniliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rumeniliev" height="30" width="40"/></a>
+<a href="https://www.researchgate.net/profile/Rumen-Iliev-4?ev=hdr_xprf">ResearchGate</a></p>
 
 <br><h3 align="left">🔧 Languages and Tools</h3>
 <p align="left"> 
