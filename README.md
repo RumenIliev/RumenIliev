@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Rumen</h1>
+<h1 align="center">Hello there, I'm Rumen</h1>
 <h3 align="center">I have a deep passion for Artificial Intelligence and Technology</h3>
 
 <br><br><h3 align="left">⚡ About Me</h3>
