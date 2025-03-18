@@ -19,6 +19,8 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="10"/></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" hspace="10"/></a> </p>
 
+<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeniliev&show_icons=true&locale=en&layout=compact" alt="rumeniliev" /></p>
+
  <br><h3 align="left">🎉 Fun facts</h3>
  <p>🔍 I start learning a new technology… and suddenly find myself 5 hours deep in documentation.</p>
 <p>🏀 In my free time, I enjoy playing basketball and closely following every NBA news, trades and trends.</p>
