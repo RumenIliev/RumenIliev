@@ -20,10 +20,10 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="10"/></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" hspace="10"/></a> </p>
 
-<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumenIliev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumenIliev&theme=transparent&include_all_commits=false&count_private=true&layout=compact)
 
  <br><h3 align="left">🎉 Fun facts</h3>
  <p>🔍 I start learning a new technology… and suddenly find myself 5 hours deep in documentation.</p>
 <p>🏀 In my free time, I enjoy playing basketball and closely following every NBA news, trades and trends.</p>
 
-<br><br>[![trophy](https://github-profile-trophy.vercel.app/?username=RumenIliev&title=Commits,Experience,Stars,Followers&theme=darkhub&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br>[![trophy](https://github-profile-trophy.vercel.app/?username=RumenIliev&title=Commits,Experience,Stars,Followers&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
