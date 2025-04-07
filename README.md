@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Rumen</h1>
-<h3 align="center">I have a deep passion for Artificial Intelligence and Technology</h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="36" style="vertical-align: middle; margin-left: 8px;">&nbsp;&nbsp;Hello there, I'm Rumen</h1>
+<h3 align="center">&nbsp;&nbsp;I have a deep passion for Artificial Intelligence and Technology</h3>
 
 <br><br><h3 align="left">⚡ About Me</h3>
 <p>🌍 What excites me the most is tackling real-world challenges and creating innovations that have a meaningful global impact.</p>
